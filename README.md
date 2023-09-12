@@ -56,3 +56,7 @@ This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICE
 ### Disclaimer
 
 This project is a clone created for educational purposes and is not affiliated with or endorsed by WhatsApp, Clerk, or Stream.io in any way. It is not intended for production use without further development and security considerations.
+
+### Live demo
+
+[Link](https://whatsapp-clone-next-j4au9qsay-fabiosm46.vercel.app/)
